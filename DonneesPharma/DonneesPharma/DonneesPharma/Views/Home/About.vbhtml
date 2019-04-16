@@ -6,6 +6,3 @@ End Code
 <h3>@ViewData("Message")</h3>
 
 <p>Use this area to provide additional information.</p>
-
-
-//test
