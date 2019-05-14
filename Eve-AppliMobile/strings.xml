@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="btnlabel_tx_remise">Calculer taux de remise</string>
+    <string name="btnlabel_prix_achat_net">Calculer prix d\'achat net</string>
+    <string name="btnlabel_prix_vente_net">Calculer prix de vente net</string>
+    <string name="btnlabel_coef_multi">Calculer coefficient multiplicateur</string>
+    <string name="hint_achat_net">Achat Net</string>
+    <string name="hint_vente_net">Vente Net</string>
+    <string name="hint_achat_brut">Achat Brut</string>
+    <string name="hint_tx_remise">Taux de remise</string>
+    <string name="hint_coef_multi">Coef. multiplicateur</string>
+    <string name="placeholder_result">Resultat</string>
+</resources>
