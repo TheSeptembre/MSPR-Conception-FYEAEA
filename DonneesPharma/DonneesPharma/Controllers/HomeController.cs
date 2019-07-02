@@ -15,16 +15,24 @@ namespace DonneesPharma.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Ce qu'il faut savoir";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Nos coordonnées :";
 
             return View();
         }
+
+        public ActionResult PharmaProximite()
+        {
+            ViewBag.Message = "Vous cherchez la pharmacie la plus proche de vous ?";
+            return View();
+        }
+
+
     }
 }
